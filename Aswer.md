@@ -1,0 +1,1 @@
+Pure Component is performing better than simple component as the simple component rerenders the element even the state is not updated while pure component doesn't rerenders the element if it's state is not updated. So Pure Component saves up computational power.
